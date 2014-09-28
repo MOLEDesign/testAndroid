@@ -16,7 +16,8 @@
     <author href="https://build.phonegap.com" email="morgan.leecy@firstgroup.com">
         Morgan Leecy
     </author>
-
+    
+    <gap:platform name="android" />
     <gap:plugin name="org.apache.cordova.camera" version="0.2.9" />
 
 </widget>
